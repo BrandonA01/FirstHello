@@ -9,6 +9,7 @@ public class Main {
         String[] items = {"Double Cheeseburger", "Lrg Fries", "Lrg Coke", "McFlurry", "Big Mac", "Med Fries", "Med Fanta"};
 
         System.out.println(thanks + " " + name.toUpperCase()+"\n"+order+thisOrder+"\n-------------------------\nYou Ordered:\n");
+        //efwefwefwefew
 
         for(int i = 0; i< items.length;i++){
             if (items[i].contains("Lrg")||items[i].contains("Med")){
